@@ -1,16 +1,66 @@
-## Hi there 👋
-teste1
-<!--
-**PauloHMJ/PauloHMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋 Eu sou Paulo Henrique</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Desenvolvedor em evolução | Foco em Backend | Java ☕
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+🎯 Desenvolvedor focado em lógica, backend e construção de sistemas reais  
+💻 Experiência com Java, Python e integração com APIs  
+📚 Sempre estudando arquitetura, boas práticas e evolução para nível Pleno  
+🔎 Interesse em projetos próprios e soluções inteligentes  
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 [Formulario-Discord](https://github.com/PauloHMJ/Formulario-Discord)  
+Sistema web com integração via Webhook para envio automático de formulários no Discord.
+
+🔹 Sistema de Utilidades em Java  
+Projeto modular com calculadora, IMC, conversores e operações bit a bit.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PauloHMJ&show_icons=true&theme=dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHMJ&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🧠 Atualmente estudando
+
+- Estruturas de Dados
+- Padrões de Projeto
+- Arquitetura Backend
+- APIs REST
+
+---
+
+## 📫 Contato
+
+📧 Email: paulohenriquehp148@gmail.com
+💼 LinkedIn: [(https://www.linkedin.com/in/paulo-henrique-manoel-junior-34432920b/)]
+
+---
+
+> "Código limpo não é um luxo. É profissionalismo."
