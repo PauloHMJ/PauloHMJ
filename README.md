@@ -36,6 +36,9 @@ Sistema web com integração via Webhook para envio automático de formulários 
 🔹 Sistema de Utilidades em Java  
 Projeto modular com calculadora, IMC, conversores e operações bit a bit.
 
+🔹 [Pagina Escola DNC (Formulario)](https://github.com/PauloHMJ/Projeto-Pagina-Escola-DNC)  
+Página web com formulário interativo desenvolvida em HTML, CSS e JavaScript para coleta e envio de informações de usuários.
+
 ---
 
 ## 📊 Estatísticas do GitHub
