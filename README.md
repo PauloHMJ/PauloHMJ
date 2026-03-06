@@ -39,6 +39,9 @@ Projeto modular com calculadora, IMC, conversores e operações bit a bit.
 🔹 [Pagina Escola DNC (Formulario)](https://github.com/PauloHMJ/Projeto-Pagina-Escola-DNC)  
 Página web com formulário interativo desenvolvida em HTML, CSS e JavaScript para coleta e envio de informações de usuários.
 
+🔹 [Trabalho da Faculdade (Pagina Wyden)](https://github.com/PauloHMJ/trabalho_faculdade)  
+Página web desenvolvida em grupo como atividade acadêmica, utilizando HTML, CSS e JavaScript para praticar conceitos de desenvolvimento front-end.
+
 ---
 
 ## 📊 Estatísticas do GitHub
