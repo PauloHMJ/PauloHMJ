@@ -33,7 +33,7 @@ Desenvolvedor em evolução | Foco em Backend | Java ☕
 🔹 [Formulario-Discord](https://github.com/PauloHMJ/Formulario-Discord)  
 Sistema web com integração via Webhook para envio automático de formulários no Discord.
 
-🔹 Sistema de Utilidades em Java  
+🔹 [Sistema de Utilidades em Java](https://github.com/PauloHMJ/Sistema-Utilitarios-em-Java/tree/main)  
 Projeto modular com calculadora, IMC, conversores e operações bit a bit.
 
 🔹 [Pagina Escola DNC (Formulario)](https://github.com/PauloHMJ/Projeto-Pagina-Escola-DNC)  
