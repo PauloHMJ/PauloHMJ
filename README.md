@@ -44,6 +44,7 @@ Página web desenvolvida em grupo como atividade acadêmica, utilizando HTML, CS
 
 🔹 [Projeto Ipark (Projeto Acadêmico com Arduino)](https://github.com/PauloHMJ/Ipark-EstacionamentoInteligente)
 Protótipo de um sistema de estacionamento inteligente com Arduino, utilizando sensores ultrassônicos para detectar vagas livres e interface web para visualização dos estados das vagas (ocupado/livre).
+
 ---
 
 ## 📊 Estatísticas do GitHub
