@@ -43,6 +43,7 @@ Página web com formulário interativo desenvolvida em HTML, CSS e JavaScript pa
 Página web desenvolvida em grupo como atividade acadêmica, utilizando HTML, CSS e JavaScript para praticar conceitos de desenvolvimento front-end.
 
 🔹 [Projeto Ipark (Projeto Acadêmico com Arduino)](https://github.com/PauloHMJ/Ipark-EstacionamentoInteligente)
+
 Protótipo de um sistema de estacionamento inteligente com Arduino, utilizando sensores ultrassônicos para detectar vagas livres e interface web para visualização dos estados das vagas (ocupado/livre).
 
 ---
