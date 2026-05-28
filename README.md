@@ -45,6 +45,10 @@ Página web desenvolvida em grupo como atividade acadêmica, utilizando HTML, CS
 🔹 [Projeto Ipark (Projeto Acadêmico com Arduino) - AINDA NÃO DISPONIVEL (PRIVADO)](https://github.com/PauloHMJ/Ipark-EstacionamentoInteligente) 
 Protótipo de um sistema de estacionamento inteligente com Arduino, utilizando sensores ultrassônicos para detectar vagas livres e interface web para visualização dos estados das vagas (ocupado/livre).
 
+🔹 Chatbot AlertCS (Projeto Acadêmico) - EM ANDAMENTO
+Sistema backend desenvolvido em Node.js e TypeScript com integração ao Telegram Bot API e Steam Market API para monitoramento inteligente de preços de skins do CS2. O projeto utiliza arquitetura modular com handlers, cronjobs e repositories, além de Docker, PostgreSQL e Redis para gerenciamento de dados e automação de notificações em tempo real.
+
+
 ---
 
 ## 📊 Estatísticas do GitHub
