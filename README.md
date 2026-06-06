@@ -60,26 +60,10 @@ Landing Page desenvolvida utilizando HTML, CSS, JavaScript, PHP e MySQL. Possui 
 
 ---
 
-🔹 Chatbot AlertCS (Projeto Acadêmico) - EM ANDAMENTO
+🔹 [Chatbot AlertCS (Projeto Acadêmico)](https://github.com/PauloHMJ/Chatbot-AlertCS)
 
 Sistema backend desenvolvido em Node.js e TypeScript com integração ao Telegram Bot API e Steam Market API para monitoramento inteligente de preços de skins do Counter-Strike 2.
 
-Tecnologias utilizadas:
-
-* Node.js
-* TypeScript
-* PostgreSQL
-* Redis
-* Docker
-* Telegram Bot API
-
-Funcionalidades:
-
-* Monitoramento automático de preços
-* Notificações via Telegram
-* Histórico de alertas
-* Arquitetura modular
-* Testes automatizados
 
 ---
 
